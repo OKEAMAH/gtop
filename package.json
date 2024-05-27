@@ -32,7 +32,7 @@
   "dependencies": {
     "blessed": "^0.1.81",
     "blessed-contrib": "^4.7.5",
-    "systeminformation": "^3.25.1"
+    "systeminformation": "^5.22.8"
   },
   "engines": {
     "node": ">=4.0.0"
